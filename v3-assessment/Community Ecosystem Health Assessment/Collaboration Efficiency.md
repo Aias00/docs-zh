@@ -19,7 +19,7 @@
 
 | 度量指标         | 地址                                                                                                                                                      | 阈值   | 权重 |
 |--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------| ------ | ---- |
-| PR 提交代码率     | [/api/v3/collaboration_quality/pr_commit_rate](https://oss-compass.org/dataHub#api_v3_collaboration_quality_pr_merge_rate)                              | 1      | 0.17 |
+| PR 提交代码率     | [/api/v3/collaboration_quality/pr_commit_rate](https://oss-compass.org/dataHub#api_v3_collaboration_quality_pr_commit_rate)                              | 1      | 0.17 |
 | PR/Issue 关联率 | [/api/v3/collaboration_quality/pr_issue_link_rate](https://oss-compass.org/dataHub#api_v3_collaboration_quality_pr_issue_link_rate)                     | 1 占比 | 0.17 |
 | PR 评审参与率     | [/api/v3/collaboration_quality/pr_review_participation_rate](https://oss-compass.org/dataHub#api_v3_collaboration_quality_pr_review_participation_rate) | 1 占比 | 0.17 |
 | Merge协作比率    | [/api/v3/collaboration_quality/pr_non_author_merge_rate](https://oss-compass.org/dataHub#api_v3_collaboration_quality_pr_non_author_merge_rate)         | 1 占比 | 0.17 |
